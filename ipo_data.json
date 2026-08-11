@@ -1,0 +1,202 @@
+{
+  "ipos": [
+    {
+      "name": "인제니아테라퓨틱스",
+      "issuePrice": 12000,
+      "expectedPrice": 0,
+      "subStart": "2026-07-30",
+      "subEnd": "2026-07-31",
+      "listDate": "2026-08-18",
+      "lead": [
+        "삼성"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "딜리셔스",
+      "issuePrice": 7000,
+      "expectedPrice": 0,
+      "subStart": "2026-08-03",
+      "subEnd": "2026-08-04",
+      "listDate": "2026-08-12",
+      "lead": [
+        "한국"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "케이앤에스아이앤씨",
+      "issuePrice": 11000,
+      "expectedPrice": 0,
+      "subStart": "2026-08-04",
+      "subEnd": "2026-08-05",
+      "listDate": "2026-08-13",
+      "lead": [
+        "IBK"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "기도산업",
+      "issuePrice": 28400,
+      "expectedPrice": 0,
+      "subStart": "2026-08-11",
+      "subEnd": "2026-08-12",
+      "listDate": "2026-08-21",
+      "lead": [
+        "미래에셋",
+        "삼성"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "해치텍",
+      "issuePrice": 23000,
+      "expectedPrice": 0,
+      "subStart": "2026-08-12",
+      "subEnd": "2026-08-13",
+      "listDate": "2026-08-25",
+      "lead": [
+        "DB금융"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "니어스랩",
+      "issuePrice": 41200,
+      "expectedPrice": 0,
+      "subStart": "2026-08-12",
+      "subEnd": "2026-08-13",
+      "listDate": "2026-08-24",
+      "lead": [
+        "삼성"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "스카이랩스",
+      "issuePrice": 16000,
+      "expectedPrice": 0,
+      "subStart": "2026-08-26",
+      "subEnd": "2026-08-27",
+      "listDate": "",
+      "lead": [
+        "한국"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "엔에이치스팩34호",
+      "issuePrice": 2000,
+      "expectedPrice": 0,
+      "subStart": "2026-09-01",
+      "subEnd": "2026-09-02",
+      "listDate": "",
+      "lead": [
+        "NH"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12 [SPAC]"
+    },
+    {
+      "name": "브릴스",
+      "issuePrice": 19500,
+      "expectedPrice": 0,
+      "subStart": "2026-09-08",
+      "subEnd": "2026-09-09",
+      "listDate": "",
+      "lead": [
+        "IBK"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "와이즈플래닛컴퍼니",
+      "issuePrice": 12000,
+      "expectedPrice": 0,
+      "subStart": "2026-09-14",
+      "subEnd": "2026-09-15",
+      "listDate": "",
+      "lead": [
+        "대신"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "글로벌테크놀로지",
+      "issuePrice": 15000,
+      "expectedPrice": 0,
+      "subStart": "2026-09-16",
+      "subEnd": "2026-09-17",
+      "listDate": "",
+      "lead": [
+        "한국"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "빅웨이브로보틱스",
+      "issuePrice": 24000,
+      "expectedPrice": 0,
+      "subStart": "2026-09-16",
+      "subEnd": "2026-09-17",
+      "listDate": "",
+      "lead": [
+        "유진",
+        "미래에셋"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    },
+    {
+      "name": "덕산넵코어스",
+      "issuePrice": 14600,
+      "expectedPrice": 0,
+      "subStart": "2026-09-16",
+      "subEnd": "2026-09-17",
+      "listDate": "",
+      "lead": [
+        "대신"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-12"
+    }
+  ],
+  "alerts": []
+}
