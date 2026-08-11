@@ -13,7 +13,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
     },
     {
       "name": "딜리셔스",
@@ -28,7 +28,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
     },
     {
       "name": "케이앤에스아이앤씨",
@@ -43,7 +43,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
     },
     {
       "name": "기도산업",
@@ -59,7 +59,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
     },
     {
       "name": "해치텍",
@@ -74,7 +74,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
     },
     {
       "name": "니어스랩",
@@ -89,7 +89,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
     },
     {
       "name": "스카이랩스",
@@ -104,7 +104,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
     },
     {
       "name": "엔에이치스팩34호",
@@ -119,7 +119,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12 [SPAC]"
+      "note": "피너츠 자동 수집 2026-08-11 [SPAC]"
     },
     {
       "name": "브릴스",
@@ -134,7 +134,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
     },
     {
       "name": "와이즈플래닛컴퍼니",
@@ -149,22 +149,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
-    },
-    {
-      "name": "글로벌테크놀로지",
-      "issuePrice": 15000,
-      "expectedPrice": 0,
-      "subStart": "2026-09-16",
-      "subEnd": "2026-09-17",
-      "listDate": "",
-      "lead": [
-        "한국"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
     },
     {
       "name": "빅웨이브로보틱스",
@@ -180,7 +165,22 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
+    },
+    {
+      "name": "글로벌테크놀로지",
+      "issuePrice": 15000,
+      "expectedPrice": 0,
+      "subStart": "2026-09-16",
+      "subEnd": "2026-09-17",
+      "listDate": "",
+      "lead": [
+        "한국"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-11"
     },
     {
       "name": "덕산넵코어스",
@@ -195,7 +195,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-12"
+      "note": "피너츠 자동 수집 2026-08-11"
     }
   ],
   "alerts": []
