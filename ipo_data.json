@@ -1,34 +1,19 @@
 {
   "ipos": [
     {
-      "name": "해치텍",
-      "issuePrice": 23000,
-      "expectedPrice": 0,
-      "subStart": "2026-08-12",
-      "subEnd": "2026-08-13",
-      "listDate": "2026-08-25",
-      "lead": [
-        "DB금융"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25"
-    },
-    {
       "name": "스카이랩스",
-      "issuePrice": 16000,
+      "issuePrice": 10000,
       "expectedPrice": 0,
       "subStart": "2026-08-26",
       "subEnd": "2026-08-27",
-      "listDate": "",
+      "listDate": "2026-09-04",
       "lead": [
         "한국"
       ],
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25"
+      "note": "피너츠 자동 수집 2026-08-26"
     },
     {
       "name": "엔에이치스팩34호",
@@ -43,37 +28,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25 [SPAC]"
-    },
-    {
-      "name": "브릴스",
-      "issuePrice": 19500,
-      "expectedPrice": 0,
-      "subStart": "2026-09-08",
-      "subEnd": "2026-09-09",
-      "listDate": "",
-      "lead": [
-        "IBK"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25"
-    },
-    {
-      "name": "네오사피엔스",
-      "issuePrice": 15800,
-      "expectedPrice": 0,
-      "subStart": "2026-09-10",
-      "subEnd": "2026-09-11",
-      "listDate": "",
-      "lead": [
-        "대신"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25"
+      "note": "피너츠 자동 수집 2026-08-26 [SPAC]"
     },
     {
       "name": "한국제17호스팩",
@@ -88,7 +43,22 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25 [SPAC]"
+      "note": "피너츠 자동 수집 2026-08-26 [SPAC]"
+    },
+    {
+      "name": "네오사피엔스",
+      "issuePrice": 15800,
+      "expectedPrice": 0,
+      "subStart": "2026-09-10",
+      "subEnd": "2026-09-11",
+      "listDate": "",
+      "lead": [
+        "대신"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-26"
     },
     {
       "name": "KB제34호스팩",
@@ -103,7 +73,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25 [SPAC]"
+      "note": "피너츠 자동 수집 2026-08-26 [SPAC]"
     },
     {
       "name": "와이즈플래닛컴퍼니",
@@ -118,7 +88,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25"
+      "note": "피너츠 자동 수집 2026-08-26"
     },
     {
       "name": "빅웨이브로보틱스",
@@ -134,7 +104,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25"
+      "note": "피너츠 자동 수집 2026-08-26"
     },
     {
       "name": "글로벌테크놀로지",
@@ -149,7 +119,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25"
+      "note": "피너츠 자동 수집 2026-08-26"
     },
     {
       "name": "덕산넵코어스",
@@ -164,7 +134,22 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25"
+      "note": "피너츠 자동 수집 2026-08-26"
+    },
+    {
+      "name": "브릴스",
+      "issuePrice": 19500,
+      "expectedPrice": 0,
+      "subStart": "2026-09-17",
+      "subEnd": "2026-09-18",
+      "listDate": "",
+      "lead": [
+        "IBK"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-26"
     },
     {
       "name": "엘리스그룹",
@@ -180,7 +165,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25"
+      "note": "피너츠 자동 수집 2026-08-26"
     },
     {
       "name": "멜콘",
@@ -195,7 +180,22 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-08-25"
+      "note": "피너츠 자동 수집 2026-08-26"
+    },
+    {
+      "name": "래블업",
+      "issuePrice": 23000,
+      "expectedPrice": 0,
+      "subStart": "2026-10-12",
+      "subEnd": "2026-10-13",
+      "listDate": "",
+      "lead": [
+        "NH"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-08-26"
     }
   ],
   "alerts": []
