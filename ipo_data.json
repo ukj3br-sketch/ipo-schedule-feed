@@ -13,7 +13,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16 [SPAC]"
+      "note": "피너츠 자동 수집 2026-09-17 [SPAC]"
     },
     {
       "name": "KB제34호스팩",
@@ -28,7 +28,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16 [SPAC]"
+      "note": "피너츠 자동 수집 2026-09-17 [SPAC]"
     },
     {
       "name": "네오사피엔스",
@@ -43,7 +43,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "와이즈플래닛컴퍼니",
@@ -58,7 +58,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "빅웨이브로보틱스",
@@ -74,7 +74,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "덕산넵코어스",
@@ -89,7 +89,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "글로벌테크놀로지",
@@ -104,7 +104,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "브릴스",
@@ -112,14 +112,14 @@
       "expectedPrice": 0,
       "subStart": "2026-09-17",
       "subEnd": "2026-09-18",
-      "listDate": "",
+      "listDate": "2026-10-01",
       "lead": [
         "IBK"
       ],
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "멜콘",
@@ -134,7 +134,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "진코스텍",
@@ -149,7 +149,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "엠비디",
@@ -164,7 +164,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "엘리스그룹",
@@ -180,7 +180,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "엠에스바이오",
@@ -195,7 +195,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "디티에스",
@@ -211,7 +211,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "에스케이증권제14호스팩",
@@ -226,7 +226,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16 [SPAC]"
+      "note": "피너츠 자동 수집 2026-09-17 [SPAC]"
     },
     {
       "name": "다비오",
@@ -241,7 +241,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "유캐스트",
@@ -257,22 +257,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
-    },
-    {
-      "name": "티앤이코리아",
-      "issuePrice": 15300,
-      "expectedPrice": 0,
-      "subStart": "2026-10-20",
-      "subEnd": "2026-10-21",
-      "listDate": "",
-      "lead": [
-        "신한"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "크리에이츠",
@@ -287,7 +272,37 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
+    },
+    {
+      "name": "티앤이코리아",
+      "issuePrice": 15300,
+      "expectedPrice": 0,
+      "subStart": "2026-10-20",
+      "subEnd": "2026-10-21",
+      "listDate": "",
+      "lead": [
+        "신한"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-09-17"
+    },
+    {
+      "name": "인텔리빅스",
+      "issuePrice": 9000,
+      "expectedPrice": 0,
+      "subStart": "2026-10-21",
+      "subEnd": "2026-10-22",
+      "listDate": "",
+      "lead": [
+        "미래에셋"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-09-17"
     },
     {
       "name": "바로팜",
@@ -302,7 +317,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-09-16"
+      "note": "피너츠 자동 수집 2026-09-17"
     }
   ],
   "alerts": []
