@@ -1,21 +1,6 @@
 {
   "ipos": [
     {
-      "name": "브릴스",
-      "issuePrice": 19500,
-      "expectedPrice": 0,
-      "subStart": "2026-09-17",
-      "subEnd": "2026-09-18",
-      "listDate": "2026-10-01",
-      "lead": [
-        "IBK"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
-    },
-    {
       "name": "멜콘",
       "issuePrice": 12300,
       "expectedPrice": 0,
@@ -28,7 +13,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "진코스텍",
@@ -43,7 +28,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "엘리스그룹",
@@ -59,7 +44,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "엠에스바이오",
@@ -74,7 +59,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "디티에스",
@@ -90,7 +75,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "에스케이증권제14호스팩",
@@ -105,7 +90,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01 [SPAC]"
+      "note": "피너츠 자동 수집 2026-10-02 [SPAC]"
     },
     {
       "name": "다비오",
@@ -120,38 +105,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
-    },
-    {
-      "name": "유캐스트",
-      "issuePrice": 26000,
-      "expectedPrice": 0,
-      "subStart": "2026-10-19",
-      "subEnd": "2026-10-20",
-      "listDate": "",
-      "lead": [
-        "유진",
-        "신영"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
-    },
-    {
-      "name": "한화플러스제6호스팩",
-      "issuePrice": 2000,
-      "expectedPrice": 0,
-      "subStart": "2026-10-20",
-      "subEnd": "2026-10-21",
-      "listDate": "",
-      "lead": [
-        "한화"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01 [SPAC]"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "티앤이코리아",
@@ -166,7 +120,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "크리에이츠",
@@ -181,7 +135,22 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
+    },
+    {
+      "name": "한화플러스제6호스팩",
+      "issuePrice": 2000,
+      "expectedPrice": 0,
+      "subStart": "2026-10-20",
+      "subEnd": "2026-10-21",
+      "listDate": "",
+      "lead": [
+        "한화"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-10-02 [SPAC]"
     },
     {
       "name": "인텔리빅스",
@@ -196,7 +165,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "영광",
@@ -211,7 +180,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "이에스티",
@@ -226,7 +195,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "아이엠스팩1호",
@@ -239,7 +208,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01 [SPAC]"
+      "note": "피너츠 자동 수집 2026-10-02 [SPAC]"
     },
     {
       "name": "에이엘로봇",
@@ -254,7 +223,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "엠비디",
@@ -269,7 +238,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "바로팜",
@@ -284,7 +253,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "넥스아이",
@@ -299,7 +268,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "옵토닉스",
@@ -314,7 +283,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     },
     {
       "name": "하나에어로다이내믹스",
@@ -329,7 +298,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-10-01"
+      "note": "피너츠 자동 수집 2026-10-02"
     }
   ],
   "alerts": []
