@@ -1,21 +1,6 @@
 {
   "ipos": [
     {
-      "name": "에이엘로봇",
-      "issuePrice": 17600,
-      "expectedPrice": 0,
-      "subStart": "2026-11-06",
-      "subEnd": "2026-11-09",
-      "listDate": "2026-11-18",
-      "lead": [
-        "대신"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
-    },
-    {
       "name": "하나에어로다이내믹스",
       "issuePrice": 5700,
       "expectedPrice": 0,
@@ -28,7 +13,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "엠비디",
@@ -43,7 +28,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "유캐스트",
@@ -59,7 +44,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "아델",
@@ -75,22 +60,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
-    },
-    {
-      "name": "신영스팩12호",
-      "issuePrice": 2000,
-      "expectedPrice": 0,
-      "subStart": "2026-11-24",
-      "subEnd": "2026-11-25",
-      "listDate": "",
-      "lead": [
-        "신영"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18 [SPAC]"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "케이엠에프",
@@ -105,7 +75,22 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
+    },
+    {
+      "name": "신영스팩12호",
+      "issuePrice": 2000,
+      "expectedPrice": 0,
+      "subStart": "2026-11-24",
+      "subEnd": "2026-11-25",
+      "listDate": "",
+      "lead": [
+        "신영"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-11-19 [SPAC]"
     },
     {
       "name": "에이엔에이치스트럭쳐",
@@ -120,7 +105,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "엔키화이트햇",
@@ -135,7 +120,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "우리투자제1호스팩",
@@ -148,7 +133,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18 [SPAC]"
+      "note": "피너츠 자동 수집 2026-11-19 [SPAC]"
     },
     {
       "name": "이노보테라퓨틱스",
@@ -163,7 +148,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "마더스제약",
@@ -179,22 +164,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
-    },
-    {
-      "name": "다비오",
-      "issuePrice": 16600,
-      "expectedPrice": 0,
-      "subStart": "2026-12-09",
-      "subEnd": "2026-12-10",
-      "listDate": "",
-      "lead": [
-        "대신"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "인터엑스",
@@ -210,7 +180,22 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
+    },
+    {
+      "name": "다비오",
+      "issuePrice": 16600,
+      "expectedPrice": 0,
+      "subStart": "2026-12-09",
+      "subEnd": "2026-12-10",
+      "listDate": "",
+      "lead": [
+        "대신"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "씨아이에스케미칼",
@@ -225,7 +210,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "데스틴파워",
@@ -240,22 +225,22 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
-      "name": "케이티이",
-      "issuePrice": 23000,
+      "name": "엠디에스코리아",
+      "issuePrice": 11500,
       "expectedPrice": 0,
       "subStart": "2026-12-14",
       "subEnd": "2026-12-15",
       "listDate": "",
       "lead": [
-        "NH"
+        "미래에셋"
       ],
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "제논",
@@ -270,7 +255,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
     },
     {
       "name": "태석광학",
@@ -286,7 +271,37 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-18"
+      "note": "피너츠 자동 수집 2026-11-19"
+    },
+    {
+      "name": "케이티이",
+      "issuePrice": 23000,
+      "expectedPrice": 0,
+      "subStart": "2026-12-14",
+      "subEnd": "2026-12-15",
+      "listDate": "",
+      "lead": [
+        "NH"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-11-19"
+    },
+    {
+      "name": "이나인페이",
+      "issuePrice": 10500,
+      "expectedPrice": 0,
+      "subStart": "2026-12-16",
+      "subEnd": "2026-12-17",
+      "listDate": "",
+      "lead": [
+        "한국"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-11-19"
     }
   ],
   "alerts": []
