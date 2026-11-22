@@ -13,7 +13,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "유캐스트",
@@ -29,7 +29,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "케이엠에프",
@@ -44,7 +44,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "신영스팩12호",
@@ -59,7 +59,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21 [SPAC]"
+      "note": "피너츠 자동 수집 2026-11-22 [SPAC]"
     },
     {
       "name": "에이엔에이치스트럭쳐",
@@ -74,7 +74,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "엔키화이트햇",
@@ -89,7 +89,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "우리투자제1호스팩",
@@ -102,7 +102,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21 [SPAC]"
+      "note": "피너츠 자동 수집 2026-11-22 [SPAC]"
     },
     {
       "name": "이노보테라퓨틱스",
@@ -117,7 +117,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "마더스제약",
@@ -133,7 +133,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "인터엑스",
@@ -149,7 +149,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "다비오",
@@ -164,7 +164,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "씨아이에스케미칼",
@@ -179,7 +179,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "데스틴파워",
@@ -194,22 +194,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
-    },
-    {
-      "name": "케이티이",
-      "issuePrice": 23000,
-      "expectedPrice": 0,
-      "subStart": "2026-12-14",
-      "subEnd": "2026-12-15",
-      "listDate": "",
-      "lead": [
-        "NH"
-      ],
-      "minQty": 10,
-      "depositRate": 50,
-      "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "제논",
@@ -224,7 +209,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "엠디에스코리아",
@@ -239,7 +224,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "태석광학",
@@ -255,7 +240,22 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
+    },
+    {
+      "name": "케이티이",
+      "issuePrice": 23000,
+      "expectedPrice": 0,
+      "subStart": "2026-12-14",
+      "subEnd": "2026-12-15",
+      "listDate": "",
+      "lead": [
+        "NH"
+      ],
+      "minQty": 10,
+      "depositRate": 50,
+      "strategy": "both",
+      "note": "피너츠 자동 수집 2026-11-22"
     },
     {
       "name": "이나인페이",
@@ -270,7 +270,7 @@
       "minQty": 10,
       "depositRate": 50,
       "strategy": "both",
-      "note": "피너츠 자동 수집 2026-11-21"
+      "note": "피너츠 자동 수집 2026-11-22"
     }
   ],
   "alerts": []
